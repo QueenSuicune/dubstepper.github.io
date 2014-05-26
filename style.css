@@ -9,3 +9,8 @@ h1{
 html {
   background:-webkit-gradient(linear, left top, left bottom, from(#277DFF),to(#0A1DFF)) no-repeat #0A1DFF;
 }
+
+div {
+  background-color:-webkit-gradient(linear, left top, left bottom, from(#E4FF2B), to(#FFBC00));
+  border-radius:100px;
+}
