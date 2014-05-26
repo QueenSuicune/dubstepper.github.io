@@ -15,6 +15,7 @@ h2{
 p{
   font-size:50;
   font-family:Source Sans Pro;
+  font-weight:bold;
 }
 html {
   background:-webkit-gradient(linear, left top, left bottom, from(#277DFF),to(#0A1DFF)) no-repeat #0A1DFF;
