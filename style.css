@@ -30,6 +30,7 @@ html {
   border-radius:100px;
   display:inline-block;
   border:2px solid #E4FF2B;
+  line-height:200;
   margin:10px;
   text-align:center;
 }
