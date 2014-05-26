@@ -1,0 +1,50 @@
+@import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+  * {
+  font-family:"Source Sans Pro";
+  }
+  body {
+    background-color:#FF40C2;
+  }
+  h1 {
+    font-size:60;
+    display:block;
+  }
+  div {
+   display:inline-block;
+   width:150px;
+   height:150px;
+   background-color:#FFFFFF;
+   margin:25px;
+   vertical-align:middle;
+  }
+  img {
+   padding:30px;
+  }
+ .water {
+   position:fixed;
+   height:75px;
+   width:150px;
+   border-radius:35px;
+   background: -webkit-gradient(linear, left top, left bottom, from(#9CE3FF),to(#009DFF));
+   -webkit-transition: background 300ms ease-out; 
+   transition:background-color 300ms ease-out;
+   cursor:pointer; 
+   color:#2616B5;
+   box-shadow:0px 3px 0px 0px #0056CF;
+  }
+  div:hover {
+   transition: all 0.2s linear;
+  }
+  .water:active {
+   background:#8AD0FF;
+   margin-top:5px;
+   box-shadow:0px 7px 2px -6px #001466;
+  }
+  ::selection {
+   background:#2EFE64;
+  }
+  ::-moz-selection {
+   background:#2EFE64;
+  }
+
