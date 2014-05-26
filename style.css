@@ -8,6 +8,9 @@ h1{
 }
 html {
   background:-webkit-gradient(linear, left top, left bottom, from(#277DFF),to(#0A1DFF)) no-repeat #0A1DFF;
+  background:-moz-gradient(linear, left top, left bottom, from(#277DFF),to(#0A1DFF)) no-repeat #0A1DFF;
+  background:-ms-gradient(linear, left top, left bottom, from(#277DFF),to(#0A1DFF)) no-repeat #0A1DFF;
+  background:-o-gradient(linear, left top, left bottom, from(#277DFF),to(#0A1DFF)) no-repeat #0A1DFF;
 }
 
 .circle {
