@@ -28,6 +28,9 @@ html {
   height:200px;
   width:200px;
   background:-webkit-gradient(linear, left top, left bottom, from(#E4FF2B), to(#FF8D00));
+  background:-moz-gradient(linear, left top, left bottom, from(#E4FF2B), to(#FF8D00));
+  background:-ms-gradient(linear, left top, left bottom, from(#E4FF2B), to(#FF8D00));
+  background:-o-gradient(linear, left top, left bottom, from(#E4FF2B), to(#FF8D00));
   border-radius:100px;
   display:inline-block;
   border:2px solid #E4FF2B;
