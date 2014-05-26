@@ -11,6 +11,8 @@ html {
 }
 
 #circle {
+  height:150px;
+  width:150px;
   background:-webkit-gradient(linear, left top, left bottom, from(#E4FF2B), to(#FFBC00));
   border-radius:100px;
 }
