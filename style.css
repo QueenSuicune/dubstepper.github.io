@@ -2,9 +2,10 @@
 
 h1{
   font-family:Source Sans Pro;
-  font-size:5em;
+  font-size:4em;
   text-align:center;
+  color:#32FF58;
 }
 html {
-  background:-webkit-gradient(linear, left top, left bottom, from(#00FF40),to(#00FFBF)) no-repeat #00ffbf;
+  background:-webkit-gradient(linear, left top, left bottom, from(#277DFF),to(#0A1DFF)) no-repeat #0A1DFF;
 }
