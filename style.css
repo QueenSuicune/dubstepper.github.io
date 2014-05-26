@@ -17,5 +17,9 @@ html {
   border-radius:100px;
   display:inline-block;
   border:2px solid #E4FF2B;
-  margin:auto;
+}
+
+#youtube {
+  position:fixed;
+  left:30%;
 }
