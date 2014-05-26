@@ -31,6 +31,7 @@ html {
   border-radius:100px;
   display:inline-block;
   border:2px solid #E4FF2B;
+  margin:10px;
   line-height:200px;
   text-align:center;
 }
