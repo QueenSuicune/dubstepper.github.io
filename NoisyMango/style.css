@@ -35,6 +35,7 @@ div {
   background:-webkit-gradient(linear, left top, left bottom, from(#FDFF48),to(#FF9100)) no-repeat;
   border-radius:100px;
   display:inline-block;
+  margin:10px auto;
 }
 i {
   margin-top:57px;
